@@ -163,6 +163,7 @@ footer {
 
 	footer {
 		padding: 20px 0;
+		position: static;
 	}
 
 	.todo-header img {
