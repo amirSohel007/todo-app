@@ -160,4 +160,18 @@ footer {
 	.todo-list {
 		max-height: 330px;
 	}
+
+	footer {
+		padding: 20px 0;
+	}
+
+	.todo-header img {
+		max-height: 250px;
+		object-fit: cover;
+		transform: translateY(-50px);
+	}
+
+	.todo-header {
+		height: 200px;
+	}
 }
