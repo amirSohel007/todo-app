@@ -152,6 +152,7 @@ footer {
     position: relative;
     top: -1px;
 }
+.app-wrapper {min-height: 100%;}
 
 @media(max-width:767px) {
 	.todo-body {
@@ -162,8 +163,9 @@ footer {
 	}
 
 	footer {
-		padding: 20px 0;
-		position: static;
+		position: absolute;
+		bottom: 3px;
+		font-size: 12px;
 	}
 
 	.todo-header img {
