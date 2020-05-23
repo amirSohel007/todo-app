@@ -162,12 +162,6 @@ footer {
 		max-height: 330px;
 	}
 
-	footer {
-		position: absolute;
-		bottom: 3px;
-		font-size: 12px;
-	}
-
 	.todo-header img {
 		max-height: 250px;
 		object-fit: cover;
